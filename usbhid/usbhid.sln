@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hidapi", "hidapi\hidapi.vcproj", "{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "hidtest", "hidtest\hidtest.vbproj", "{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Debug|Win32.Build.0 = Debug|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Release|Win32.ActiveCfg = Release|Win32
+		{0EC05D6C-31FF-4FDF-8D11-58728EF3642D}.Release|Win32.Build.0 = Release|Win32
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4FBBAC18-EDBE-4B54-8E58-7C3497D291A4}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

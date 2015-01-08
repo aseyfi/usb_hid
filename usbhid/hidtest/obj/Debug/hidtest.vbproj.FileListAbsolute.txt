@@ -1,0 +1,10 @@
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\bin\Debug\hidtest.exe
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\bin\Debug\hidtest.pdb
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\bin\Debug\hidtest.xml
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\obj\Debug\hidtest.Form1.resources
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\obj\Debug\hidtest.Resources.resources
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\obj\Debug\hidtest.vbproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\obj\Debug\hidtest.exe
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\obj\Debug\hidtest.xml
+C:\Users\Ahmad\Desktop\usb_projects\usbhid\hidtest\obj\Debug\hidtest.pdb
